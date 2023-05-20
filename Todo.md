@@ -8,10 +8,15 @@
   - JS / TS / Java whatever
   - if use Java, do it at codewars
 ### Programming Idea
-- interesting news share (add memo) system
+- news share (add memo) system  
+  **features**
   - write comments
   - get readed date, URL, title, (all article)
   - add tag
     - get tagList
   - which apps work with
     - keep, notion, 
+- ChatGPT make assignment system
+  - make "assignment code input form"
+  - outline, input form, assignment list
+  - "teach" prompt (not tell answer)
