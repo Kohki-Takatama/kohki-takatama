@@ -1,9 +1,24 @@
 <!-- 参考記事:https://qiita.com/mmnn/items/cf465d271171cba8bd51 -->
+<!-- Qiita badgeはhttps://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50-->
 
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
+<div align="right" style="display: flex; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=Kohki-Takatama" />
+
+  <a href="http://qiita.com/kohki_takatama">
+    <img src="https://qiita-badge.apiapi.app/s/kohki_takatama/posts.svg" alt="My Qiita posts" />
+  </a>
+
+  <a href="http://qiita.com/kohki_takatama">
+    <img src="https://qiita-badge.apiapi.app/s/kohki_takatama/contributions.svg" alt="My Qiita contributions" />
+  </a>
+
+  <a href="https://zenn.dev/haneru/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/haneru/scraps?style=flat" alt="haneru scraps" />
+  </a>
 </div>
+
+
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
