@@ -1,5 +1,6 @@
-<!-- 参考記事:https://qiita.com/mmnn/items/cf465d271171cba8bd51 -->
-<!-- Qiita badgeはhttps://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50-->
+<!-- プロフィール参考記事 https://qiita.com/mmnn/items/cf465d271171cba8bd51 -->
+<!-- Qiita badge https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50-->
+<!-- Zenn badge https://github.com/nikaera/zenn-badge-->
 
 <!-- 1. GitHub usernameを変更 -->
 <div align="right" style="display: flex; align-items: center;">
