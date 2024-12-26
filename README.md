@@ -26,7 +26,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm enginner.
-- 🌱 I’m currently learning JS / Rails!
+- 🌱 I’m currently learning React / Next.js
 - 📫 How to reach me: [Twitter - @Kohki_Takatama](https://x.com/Kohki_Takatama)
 - 📚 Please also check: [POTOFU (Articles, Portfolio)](https://potofu.me/kohki-takatama) 
 <br>
